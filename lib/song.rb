@@ -10,7 +10,7 @@ class Song
       self.artist.name
     else
       nil
-    end
+    end #if self.artist
   end #def artist_name
 
 end #class Song
