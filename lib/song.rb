@@ -6,6 +6,6 @@ class Song
   end #def initialize
 
   def artist_name
-  end
+  end #def artist_name
 
 end #class Song
