@@ -7,6 +7,7 @@ class Artist
   end #def initialize
 
   def songs
+    @songs
   end
 
 end #class Artist
