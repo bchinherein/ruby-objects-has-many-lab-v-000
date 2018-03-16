@@ -10,4 +10,7 @@ class Artist
     @songs
   end #def songs
 
+  def add_song
+  end
+
 end #class Artist
