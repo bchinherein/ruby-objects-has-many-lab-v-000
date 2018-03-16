@@ -5,4 +5,7 @@ class Song
     @name = name
   end #def initialize
 
+  def artist_name
+  end
+
 end #class Song
