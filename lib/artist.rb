@@ -8,6 +8,6 @@ class Artist
 
   def songs
     @songs
-  end
+  end #def songs
 
 end #class Artist
